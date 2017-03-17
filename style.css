@@ -1,4 +1,36 @@
-
+body {
+  background-image: url("https://pbs.twimg.com/media/CdCLAAsWoAEEP16.jpg");
+  width: 82%
+  }
+  
+#firstParagraph {                                                                       
+  background-color: blue;
+}
+#secodParagraph {
+  font-family: cursive;
+  color: #891464
+}
+#fourthParagraph {
+  float: right
+}
+#fourthParagraph {
+  color: #891464
+}
+#eigthParagraph {
+  color: #891464
+}
+#sixthParagraph{
+  color: #891464
+}
+#tenthParagraph {
+  color: #891464
+}
+#sixthParagraph:hover {
+  font-weight: bold
+}
+#sixthParagraph:hover {
+  font-family: fantasy
+}
 .box {
   width: 100px;
   height: 100px;
@@ -6,13 +38,31 @@
 }
 
 #one {
-  background-color: red;
+  background-color: blue;
+}
+#one:hover {
+  background-color: red
 }
 
 #two {
   background-color: blue;
 }
+#two:hover {
+  height: 200px
+}
+#two:hover {
+  width: 200px;
+}
 
 #three {
   background-color: green;
+}
+p {
+  font-size: 20px
+}
+#citypicture {
+  width: 50%
+}
+#citypicture {
+  margin-left: 25%;
 }
